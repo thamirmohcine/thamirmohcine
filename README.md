@@ -3,3 +3,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamirmohcine&layout=compact&theme=radical)
 
 **Email:** [mouhcinethamir@gmail.com](mailto:mouhcinethamir@gmail.com)
+[![mthamir's 42 stats](https://badge.mediaplus.ma/greenbinary/mthamir)](https://github.com/oakoudad/badge42)
